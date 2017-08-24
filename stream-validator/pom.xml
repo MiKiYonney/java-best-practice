@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>com.yonney</artifactId>
+    <artifactId>stream-validator</artifactId>
 
 
 </project>
