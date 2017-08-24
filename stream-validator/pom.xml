@@ -11,5 +11,11 @@
 
     <artifactId>stream-validator</artifactId>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.baidu.unbiz</groupId>
+            <artifactId>fluent-validator</artifactId>
+        </dependency>
+    </dependencies>
 
 </project>
