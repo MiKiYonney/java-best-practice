@@ -1,5 +1,6 @@
 package com.yonney.stram.validator.framework;
 
+import lombok.val;
 import org.aopalliance.intercept.MethodInterceptor;
 import org.aopalliance.intercept.MethodInvocation;
 import org.springframework.stereotype.Component;
