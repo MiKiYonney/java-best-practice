@@ -13,14 +13,6 @@ import java.util.Set;
 public class BeanValidatorTest {
  
     public static void main(String[] args) {
-
-        ExecutableValidator executableValidator = Validation
-                .buildDefaultValidatorFactory()
-                .getValidator()
-                .forExecutables();
-
-
-
         ValidatorFactory factory = Validation.buildDefaultValidatorFactory();
         try {
 
