@@ -11,6 +11,7 @@
     <modules>
         <module>best-practice-util</module>
         <module>stream-validator</module>
+        <module>best-practice-demo</module>
     </modules>
 
     <dependencyManagement>
